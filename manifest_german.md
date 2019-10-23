@@ -13,3 +13,6 @@ Eine zutreffende Einschätzung des Arbeitspensums und adäquate Verteilung korre
 Agilität ist insbesondere auf Kompetenzen in der **Gruppenkommunikation** angewiesen, welche sich um Transparenz und Zuverlässigkeit bemühen sollte. Hierzu bedarf es auch einer geeigneten gemeinsamen **Kommunikationsplattform**, welche den Austausch zur Organisation und Umsetzung des Projektes in Form **regelmäßiger Treffen** garantiert. Hier soll jedes Mitglied umstandslos den **Status Quo** des Projektes einsehen können. Außerdem muss hier auf die Möglichkeit geachtet werden, zwischenmenschliche Aspekte effizient behandeln und arrangieren zu können. Falls gewünscht, kann über jene Plattform auch dem Dozierenden ein Zugang zwecks Beurteilung erteilt werden.
 
 Ein **lauffähiger und vorzeigbarer Prototyp** sollte möglichst schnell erstellt und dann **kontinuierlich weiterentwickelt** werden. Dabei ist im Sinne der Agilität darauf zu achten, durch eine modulare Arbeitsweise die Aufwandskurven möglichst flach zu halten. Aktuelle Entwicklungen können stets funktionsfähig in das Produkt aufgenommen werden.
+
+**Autoren:** *Mark Eschweiler, Anna-Maria Evers,	Dominik Kruhl, Elisabeth Reuhl und Enes Türkoğlu*
+
